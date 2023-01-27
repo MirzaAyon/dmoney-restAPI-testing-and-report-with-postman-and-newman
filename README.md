@@ -10,8 +10,19 @@
 8. For each transaction, assert expected balance
 
 ## How to run this project
-- clone the project
-- give this command ``` npm i ``` and ``` npm run report ```
+### 1st system
+- open cmd on your system
+- Newman Install command - npm install -g newman
+- HTML extra install command - npm install -g newman-reporter-html
+- Run command - newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
+
+### 1st system
+- open cmd on your system
+- Newman Install command - npm install -g newman
+- HTML extra install command - npm install -g newman-reporter-html
+- Run command - newman run Dmoney-Transaction-API-Validation.postman_collection.json
+
+
 
 ## Technology used:
 - Postman
