@@ -1,4 +1,13 @@
 # dmoney-b6
+# Testcase scenarios
+1. Admin creates an agent and random 2 customers
+2. Deposit some money from SYSTEM account to the agent
+3. Agent deposit to any of 1 customer
+4. The customer checks balance
+5. Then withdraw any amount from the agent
+6. And send money to the other customer
+7. Then the customer will check statement
+8. For each transaction, assert expected balance
 
 ## How to run this project
 - clone the project
