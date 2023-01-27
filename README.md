@@ -17,10 +17,23 @@
 - Postman
 - Newman
 
-## Documentation:
-  - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V?fbclid=IwAR3iUOg0Y6wl_jw0wDqWucVZ4MCfhS-mvIRFV_I47mZtRxyNb8iLjR5yvUw
+
 ## Test Cases on dmoney restAPI:
   - Google drive link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
+
+## Dmoney API collection accordingly testcases
+- Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
+
+
+
+## Documentation:
+  - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V?fbclid=IwAR3iUOg0Y6wl_jw0wDqWucVZ4MCfhS-mvIRFV_I47mZtRxyNb8iLjR5yvUw
+
+## Newman report link:
+- file:///J:/Batch%206/class%206/api%20project/newman/Dmoney-Transaction-API-Validation-2023-01-26-20-24-53-772-0.html
+
+## Newman report screenshot: 
+
 
 ## Issue report on dmoney restAPI
 - Google drive link - https://docs.google.com/spreadsheets/d/1zEx1pdk_a6Amt8OGv-pBoeNimYtYWHJkkW7fJnsnacM/edit?fbclid=IwAR2umGsOevDIiKQ79qlbM09GfWr6y3kEHKhtCehYGMVH3z0ReBbAqs9N7u4#gid=1861580978 
