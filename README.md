@@ -35,6 +35,13 @@
 ## Newman report screenshot: 
 
 
+![newman summary](https://user-images.githubusercontent.com/68238652/215156801-bd601de3-6314-435c-99db-e9f65de7a683.PNG)
+
+![total requests](https://user-images.githubusercontent.com/68238652/215157183-0942df53-ae08-4458-98d3-8db0daa67d1c.PNG)
+
+![failed requests](https://user-images.githubusercontent.com/68238652/215157372-64ee30e0-9556-4284-966e-fe25c64f3f56.PNG)
+
+
 
 ## Issue report on dmoney restAPI
 - Google drive link - https://docs.google.com/spreadsheets/d/1zEx1pdk_a6Amt8OGv-pBoeNimYtYWHJkkW7fJnsnacM/edit?fbclid=IwAR2umGsOevDIiKQ79qlbM09GfWr6y3kEHKhtCehYGMVH3z0ReBbAqs9N7u4#gid=1861580978 
