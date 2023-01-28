@@ -1,4 +1,4 @@
-# dmoney-b6
+
 # Testcase scenarios
 1. Admin creates an agent and random 2 customers
 2. Deposit some money from SYSTEM account to the agent
@@ -10,17 +10,17 @@
 8. For each transaction, assert expected balance
 
 ## How to run this project
-### 1st system
+### 1st system with dmoney API collection link
 - open cmd on your system
-- Newman Install command - (npm install -g newman)
-- HTML extra install command - (npm install -g newman-reporter-html)
-- Run command - newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
+- Newman Install command - ```npm install -g newman```
+- HTML extra install command - ```npm install -g newman-reporter-html```
+- Run command - ```newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4```
 
-### 2nd system
+### 2nd system with dmoney API json file
 - open cmd on your system
-- Newman Install command - (npm install -g newman)
-- HTML extra install command - (npm install -g newman-reporter-html)
-- Run command - newman run Dmoney-Transaction-API-Validation.postman_collection.json
+- Newman Install command - ```npm install -g newman```
+- HTML extra install command - ```npm install -g newman-reporter-html```
+- Run command - ```newman run Dmoney-Transaction-API-Validation.postman_collection.json```
 
 
 
@@ -32,7 +32,7 @@
 
 
 ## Test Cases on dmoney restAPI:
-  - Google drive link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
+  - Google sheet link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
 
 ## Dmoney API collection accordingly testcases
 - Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
@@ -57,7 +57,7 @@
 
 
 ## Issue report on dmoney restAPI
-- Google drive link - https://docs.google.com/spreadsheets/d/1zEx1pdk_a6Amt8OGv-pBoeNimYtYWHJkkW7fJnsnacM/edit?fbclid=IwAR2umGsOevDIiKQ79qlbM09GfWr6y3kEHKhtCehYGMVH3z0ReBbAqs9N7u4#gid=1861580978 
+- Google sheet link - https://docs.google.com/spreadsheets/d/1zEx1pdk_a6Amt8OGv-pBoeNimYtYWHJkkW7fJnsnacM/edit?fbclid=IwAR2umGsOevDIiKQ79qlbM09GfWr6y3kEHKhtCehYGMVH3z0ReBbAqs9N7u4#gid=1861580978 
 
 
 
