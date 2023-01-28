@@ -33,14 +33,22 @@
 
 ## Test Cases on dmoney restAPI:
   - Google sheet link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
+  
+ 
 
 ## Dmoney API collection accordingly testcases
 - Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
 
 
+![testcase](https://user-images.githubusercontent.com/68238652/215250913-f0587a02-446f-4864-85c0-e54304d779fa.PNG)
+
 
 ## Documentation:
   - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V?fbclid=IwAR3iUOg0Y6wl_jw0wDqWucVZ4MCfhS-mvIRFV_I47mZtRxyNb8iLjR5yvUw
+  
+
+  ![documentation](https://user-images.githubusercontent.com/68238652/215250938-e4b6b3af-bb05-42a0-a0a4-80c296c31893.PNG)
+
 
 ## Newman report link:
 - file:///J:/Batch%206/class%206/api%20project/newman/Dmoney-Transaction-API-Validation-2023-01-26-20-24-53-772-0.html
@@ -58,6 +66,9 @@
 
 ## Issue report on dmoney restAPI
 - Google sheet link - https://docs.google.com/spreadsheets/d/1zEx1pdk_a6Amt8OGv-pBoeNimYtYWHJkkW7fJnsnacM/edit?fbclid=IwAR2umGsOevDIiKQ79qlbM09GfWr6y3kEHKhtCehYGMVH3z0ReBbAqs9N7u4#gid=1861580978 
+
+
+![issue report](https://user-images.githubusercontent.com/68238652/215250959-8b209278-5c5d-4e7a-be25-7b7b4d9a3a18.PNG)
 
 
 
