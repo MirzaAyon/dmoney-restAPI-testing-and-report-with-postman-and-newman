@@ -32,18 +32,15 @@
 - Postman
 - Newman
 
-
-## Test Cases on dmoney restAPI:
-  - Google sheet link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
-  
- 
-
 ## Dmoney API collection accordingly testcases
 - Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR3nVgzONwmTn5Esj_1brhCh4NQKgD4bg9LGd1hyo4mCQdH_J3JRWIGIkbk
 
 
+## Test Cases on dmoney restAPI:
+  - Google sheet link - https://docs.google.com/spreadsheets/d/1dtrxukVS4UYx_oB2X2h_5MA4gupsdP0OuGUDpjMPcnk/edit?fbclid=IwAR2-50R-0kCOtOWx1ES3ol9evxN7W4n2x2WcxWTojX8DvMnsj2nNvlR5OZI#gid=1948463617
+ 
 ![testcase](https://user-images.githubusercontent.com/68238652/215250913-f0587a02-446f-4864-85c0-e54304d779fa.PNG)
-
+ 
 
 ## Documentation:
   - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V
