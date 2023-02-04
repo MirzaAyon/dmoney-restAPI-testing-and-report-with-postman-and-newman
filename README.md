@@ -14,7 +14,9 @@
 - open cmd on your system
 - Newman Install command - ```npm install -g newman```
 - HTML extra install command - ```npm install -g newman-reporter-html```
-- Run command - ```newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4```
+- Run command - ```newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR3nVgzONwmTn5Esj_1brhCh4NQKgD4bg9LGd1hyo4mCQdH_J3JRWIGIkbk```
+
+- Run command for report - ```newman run https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR3nVgzONwmTn5Esj_1brhCh4NQKgD4bg9LGd1hyo4mCQdH_J3JRWIGIkbk -r cli,htmlextra```
 
 ### 2nd system with dmoney API json file
 - open cmd on your system
@@ -37,30 +39,28 @@
  
 
 ## Dmoney API collection accordingly testcases
-- Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR1yRZ_2NRUZxbWrQKIntVwoASwqifPaq4ybW5zAjQDnPFb-rm0Y8FMKrm4
+- Link - https://api.postman.com/collections/21363025-8c83f80e-c26f-4750-b82a-8ce0cb5fd59e?access_key=PMAT-01GQQPF4S2N721X7JYR0A63V7H&fbclid=IwAR3nVgzONwmTn5Esj_1brhCh4NQKgD4bg9LGd1hyo4mCQdH_J3JRWIGIkbk
 
 
 ![testcase](https://user-images.githubusercontent.com/68238652/215250913-f0587a02-446f-4864-85c0-e54304d779fa.PNG)
 
 
 ## Documentation:
-  - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V?fbclid=IwAR3iUOg0Y6wl_jw0wDqWucVZ4MCfhS-mvIRFV_I47mZtRxyNb8iLjR5yvUw
+  - https://documenter.getpostman.com/view/21363025/2s8ZDeSy1V
   
 
   ![documentation](https://user-images.githubusercontent.com/68238652/215250938-e4b6b3af-bb05-42a0-a0a4-80c296c31893.PNG)
 
 
 ## Newman report link:
-- file:///J:/Batch%206/class%206/api%20project/newman/Dmoney-Transaction-API-Validation-2023-01-26-20-24-53-772-0.html
+- file:///J:/Batch%206/class%202/newman/Dmoney-Transaction-API-Validation-2023-02-04-08-02-44-237-0.html
 
 ## Newman report screenshot: 
 
+![updated report](https://user-images.githubusercontent.com/68238652/216757097-1b5a547c-be4a-435a-922c-cb53e2d11d44.PNG)
 
-![newman summary](https://user-images.githubusercontent.com/68238652/215156801-bd601de3-6314-435c-99db-e9f65de7a683.PNG)
+![updated report2](https://user-images.githubusercontent.com/68238652/216757110-9c3daf2c-eacc-4bfc-8bd0-101bab436546.PNG)
 
-![total requests](https://user-images.githubusercontent.com/68238652/215157183-0942df53-ae08-4458-98d3-8db0daa67d1c.PNG)
-
-![failed requests](https://user-images.githubusercontent.com/68238652/215157372-64ee30e0-9556-4284-966e-fe25c64f3f56.PNG)
 
 
 
