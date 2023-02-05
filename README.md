@@ -49,9 +49,6 @@
   ![documentation](https://user-images.githubusercontent.com/68238652/215250938-e4b6b3af-bb05-42a0-a0a4-80c296c31893.PNG)
 
 
-## Newman report link:
-- file:///J:/Batch%206/class%202/newman/Dmoney-Transaction-API-Validation-2023-02-04-08-02-44-237-0.html
-
 ## Newman report screenshot: 
 
 ![updated report](https://user-images.githubusercontent.com/68238652/216757097-1b5a547c-be4a-435a-922c-cb53e2d11d44.PNG)
